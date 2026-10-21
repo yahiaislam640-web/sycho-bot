@@ -1,0 +1,14 @@
+{
+  "name": "sycho-bot",
+  "version": "1.0.0",
+  "description": "SYCHO BOT - WhatsApp Assistant Bot",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.24",
+    "pino": "^9.6.0"
+  }
+}
